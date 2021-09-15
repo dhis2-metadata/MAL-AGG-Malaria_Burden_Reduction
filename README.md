@@ -1,1 +1,1 @@
-# MAL_BR - Malaria Burden Reduction
+# MAL - Malaria Burden Reduction - Aggregate metadata package
