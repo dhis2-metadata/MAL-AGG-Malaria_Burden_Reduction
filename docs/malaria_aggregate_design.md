@@ -1,4 +1,4 @@
-# Malaria Aggregate System Design
+# Malaria Aggregate System Design { #malaria-aggregate-design }
 
 ## Introduction
 
